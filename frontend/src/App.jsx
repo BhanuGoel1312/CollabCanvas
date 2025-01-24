@@ -8,7 +8,7 @@ import "./App.css";
 import Forms from "./components/Forms";
 import RoomPage from "./pages/RoomPage";
 
-const server = "https://github.com/BhanuGoel1312/CollabCanvas.git";
+const server = "https://collabcanvas.pages.dev/";
 const connectionOptions = {
   "force new connection": true,
   reconnectionAttempts: "Infinity",
